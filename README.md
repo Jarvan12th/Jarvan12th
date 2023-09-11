@@ -2,7 +2,7 @@
 
 #### Earned Badges 🏅️
 
-[![AWS Certified Solutions Architect – Professional](https://jarvanlee.s3.ap-southeast-2.amazonaws.com/badge/aws-certified-solutions-architect-professional.png)](https://www.credly.com/badges/8829e53c-01c7-4750-94a5-8d41fc307bd1/public_url) [![AWS Certified DevOps Engineer – Professional](https://jarvanlee.s3.ap-southeast-2.amazonaws.com/badge/aws-certified-devops-engineer-professional.png)](https://www.credly.com/badges/951e8210-7c34-4ee9-bbd4-4d6271e5422a/public_url) [![AWS Cloud Quest: Cloud Practitioner](https://jarvanlee.s3.ap-southeast-2.amazonaws.com/badge/aws-cloud-quest-cloud-practitioner.png)](https://www.credly.com/badges/58155e5a-aa76-4390-b9b5-4811ac1b4e64/public_url)
+[![AWS Certified Solutions Architect – Professional](https://jarvanlee.s3.ap-southeast-2.amazonaws.com/badges/aws-certified-solutions-architect-professional.png)](https://www.credly.com/badges/8829e53c-01c7-4750-94a5-8d41fc307bd1/public_url) [![AWS Certified DevOps Engineer – Professional](https://jarvanlee.s3.ap-southeast-2.amazonaws.com/badges/aws-certified-devops-engineer-professional.png)](https://www.credly.com/badges/951e8210-7c34-4ee9-bbd4-4d6271e5422a/public_url) [![AWS Cloud Quest: Cloud Practitioner](https://jarvanlee.s3.ap-southeast-2.amazonaws.com/badges/aws-cloud-quest-cloud-practitioner.png)](https://www.credly.com/badges/58155e5a-aa76-4390-b9b5-4811ac1b4e64/public_url)
 
 <!--
 **Jarvan12th/Jarvan12th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
